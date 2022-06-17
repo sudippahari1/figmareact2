@@ -1,0 +1,159 @@
+.ellips1 {
+  position: absolute;
+  width: 173.79px;
+  height: 173.79px;
+  left: 884px;
+  top: 249px;
+}
+.ellips2 {
+  position: absolute;
+  width: 173.79px;
+  height: 173.79px;
+  left: 1294.03px;
+  top: 249px;
+}
+.ellips3 {
+  position: absolute;
+  width: 215.14px;
+  height: 215.14px;
+  left: 958.92px;
+  top: 451.21px;
+}
+.ellips5 {
+  position: absolute;
+  width: 173.79px;
+  height: 173.79px;
+  left: 884px;
+  top: 694.84px;
+}
+
+.ellips4 {
+  position: absolute;
+  width: 215.14px;
+  height: 215.14px;
+  left: 1417px;
+  top: 451.21px;
+}
+.ellips6 {
+  position: absolute;
+  width: 173.79px;
+  height: 173.79px;
+  left: 1294.03px;
+  top: 694.84px;
+}
+.vec1 {
+  position: absolute;
+  left: 920px;
+
+  top: 284px;
+}
+.vec2 {
+  position: absolute;
+  left: 1005px;
+  top: 499px;
+}
+
+.vec3 {
+  position: absolute;
+  left: 920px;
+  top: 735px;
+}
+.name1{
+	position: absolute;
+width: 136.69px;
+height: 58.58px;
+left: 1312.58px;
+    top: 282.44px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24.3627px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #A6CDC5;
+}
+.name2{
+	position: absolute;
+width: 169.21px;
+height: 72.52px;
+left: 1460.97px;
+    top: 501.98px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24.3627px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1DD9B3;
+}
+.name3{
+	position: absolute;
+width: 136.69px;
+height: 58.58px;
+left: 1312.58px;
+    top: 732.28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24.3627px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #A6CDC5;
+}
+.bar1{
+	position: absolute;
+width: 128.49px;
+height: 24.14px;
+left: 1111.96px;
+top: 310.65px
+
+}
+.bar2{
+    position: absolute;
+    width: 128.49px;
+    height: 24.14px;
+    left: 1111.84px;
+    top: 351.14px;
+
+}
+.bar3{
+	position: absolute;
+    width: 159.06px;
+    height: 29.89px;
+    left: 1218.91px;
+    top: 572.46px;
+}
+.bar4{
+	position: absolute;
+    width: 159.06px;
+    height: 29.89px;
+    left: 1219.36px;
+    top: 526.1px;
+}
+.bar5{
+	position: absolute;
+    width: 128.49px;
+    height: 24.14px;
+    left: 1111.96px;
+    top: 753.49px;
+}
+.bar6{
+    position: absolute;
+    width: 128.49px;
+    height: 24.14px;
+    left: 1111.84px;
+    top: 793.97px;
+
+}

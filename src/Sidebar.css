@@ -1,0 +1,51 @@
+.appp {
+	height: 1117px;
+  }
+  
+
+.round1{
+	position: absolute;
+width: 45.95px;
+height: 45.95px;
+left: 163.95px;
+top: 392px;
+bottom: 780px;
+transform: rotate(90deg);
+}
+
+.round2{
+	position: absolute;
+width: 45.95px;
+height: 45.95px;
+left: 163.95px;
+top: 535.61px;
+transform: rotate(90deg);
+}
+
+.round3{
+	position: absolute;
+width: 45.95px;
+height: 45.95px;
+left: 163.95px;
+top: 679.22px;
+
+transform: rotate(90deg);
+}
+.line1{
+	position: absolute;
+    width: 97.65px;
+    height: 0px;
+    left: 136.98px;
+    top: 485.95px;
+    border: 1px solid #5FD3BC;
+    transform: rotate(90deg);
+}
+.line2{
+	position: absolute;
+    width: 97.65px;
+    height: 0px;
+    left: 136.98px;
+    top: 629.56px;
+    border: 1px solid #5FD3BC;
+    transform: rotate(90deg);
+}
